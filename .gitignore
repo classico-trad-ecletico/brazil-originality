@@ -1,0 +1,9 @@
+Gemfile.lock
+_site/
+.cache
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.vendor/
+slides/*
+!slides/reveal.js
