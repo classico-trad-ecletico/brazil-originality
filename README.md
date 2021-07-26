@@ -1,9 +1,13 @@
-# tufte-garamond
+# The narrative of colonial Brazilian originality
 
-[![Website](https://github.com/p3palazzo/tufte-garamond/actions/workflows/build.yaml/badge.svg)](https://github.com/p3palazzo/tufte-garamond/actions/workflows/build.yaml)
+[![Website](https://github.com/p3palazzo/brazil-originality/actions/workflows/build.yaml/badge.svg)](https://github.com/p3palazzo/brazil-originality/actions/workflows/build.yaml)
 
-Customizations for p3palazzo/tufte-crossref-jekyll:
+* * * *
 
-- EB Garamond font instead of Tufte Bembo
-- Various formatting idiosyncrasies
-- Specs for building and delivering a website, slides, and PDFs
+ brazil-originality (c) 2021 by Pedro P. Palazzo
+ 
+ brazil-originality is licensed under a
+ Creative Commons Attribution 3.0 Unported License.
+ 
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
